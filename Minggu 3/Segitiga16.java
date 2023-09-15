@@ -6,12 +6,11 @@ public class Segitiga16 {
             int alas;
             int tinggi;
             float luas;
-            
             System.out.println("Masukkan alas ");
             alas = sc.nextInt();
             System.out.println("Masukkan tinggi ");
             tinggi = sc.nextInt();
-
+            
             luas = alas * tinggi / 2;
             System.out.println("Luas segitiga " + luas);
     }
