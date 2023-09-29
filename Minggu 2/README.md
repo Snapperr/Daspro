@@ -1,3 +1,3 @@
-# Dasar Pemrograman - Jobsheet 2
+# Dasar Pemrograman Semester 1
 
-Hello Github, ini adalah repository pertama saya.
+Kumpulan Jobsheet selama Semester 1
