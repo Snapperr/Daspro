@@ -31,6 +31,7 @@ public class Selection316 {
                 result = operand1 / operand2;
                 System.out.println(operand1 + " / " + operand2 + "=" + result);
                 break;
+                
         }
     }
 }
