@@ -9,8 +9,10 @@ public class Selection316 {
         
         System.out.print("Input operand 1: ");
         operand1 = input16.nextDouble();
+        
         System.out.print("Input operand 2: ");
         operand2 = input16.nextDouble();
+        
         System.out.print("Input operator (+ - * /): ");
         operator = input16.next().charAt(0);
 
