@@ -13,10 +13,13 @@ public class Selection2Exp116 {
         if(year%4 == 0)
             if(year%200 != 0){
                 System.out.println("Leap year");
+            }else
+                if(year%400 == 0){
+                    System.out.println("Leap year");
             }else {
                 System.out.println("Not a leap year");
-          }else {
+        }else {
             System.out.println("Not a leap year");
-        }
-    }
+     }
+  }
 }       
