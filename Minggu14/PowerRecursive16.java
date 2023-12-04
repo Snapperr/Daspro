@@ -20,6 +20,6 @@ public class PowerRecursive16 {
         System.out.println("Result of "+base+" power "+power+" = "+calculatePower(base, power));
 
         int result = calculatePower(base, power);
-        System.out.println("1 = "+result + "!");
+        System.out.println("1 ="+result + "!");
     }
 }
